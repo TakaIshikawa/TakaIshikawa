@@ -1,0 +1,153 @@
+# Takahiro Ishikawa
+
+**AI-Native Product Builder** • Founder at Stealth Startup • Shipping multi-agent systems and developer productivity tools
+
+I build AI-native products at volume. My focus is multi-agent infrastructure, autonomous systems, and tools that reshape how developers work. Every project is an experiment in what becomes possible when AI is a first-class citizen in the development process.
+
+[Website](https://takaishikawa.com) • [Blog](https://takaishikawa.com/blog) • [Newsletter](https://takaishikawa.com/newsletter) • [LinkedIn](https://www.linkedin.com/in/takahiroishikawa/)
+
+---
+
+## 🚀 Current Focus
+
+Building autonomous infrastructure for AI agents:
+- **Multi-agent orchestration** at scale
+- **Self-improving agent systems** that learn from their own performance
+- **AI-native developer tools** that eliminate repetitive work
+- **Agent evaluation frameworks** for measuring real-world impact
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, TypeScript, JavaScript, Swift
+**AI/ML:** Claude API, Anthropic SDK, LangChain, OpenAI, Agent SDKs
+**Backend:** FastAPI, Node.js, Next.js 15, React 19
+**Infrastructure:** Docker, PostgreSQL, Redis, SQLite
+**Tools:** Git, Claude Code, Cursor, Model Context Protocol (MCP)
+
+---
+
+## 📦 Projects
+
+Building in public. All experiments below are active explorations of AI-native product development.
+
+### Agent Infrastructure & Orchestration
+
+**[relay](https://github.com/TakaIshikawa/relay)** — Autonomous agent orchestration system that delegates coding tasks to AI agents (Claude Code, Codex, Cursor Agent) running in parallel across git worktrees
+
+**[mirror](https://github.com/TakaIshikawa/mirror)** — Automated self-improvement loop for AI agents. Observes performance, diagnoses issues using statistical analysis and LLM-as-judge, generates improvement hypotheses, validates via A/B experiments, and deploys confirmed changes
+
+**[runner](https://github.com/TakaIshikawa/runner)** — Adaptive monitoring system for background tasks and scheduled processes across projects with auto-discovery and health monitoring
+
+**[smoothie](https://github.com/TakaIshikawa/smoothie)** — Multi-session AI agent orchestrator. Web UI for managing concurrent Claude Code and Codex sessions with queue-based prioritization and real-time streaming
+
+**[accord](https://github.com/TakaIshikawa/accord)** — Agent-to-agent contract protocol. Agents discover capabilities, negotiate work contracts, execute deliverables, and settle obligations through a structured lifecycle
+
+**[tact](https://github.com/TakaIshikawa/tact)** — Orchestration system for AI coding agents. Manages parallel agent sessions: decomposing requirements into dependency-tracked tasks, dispatching within budget constraints, and handling merge conflicts
+
+### Content & Knowledge Systems
+
+**[presence](https://github.com/TakaIshikawa/presence)** — Autonomous content pipeline that ingests GitHub commits and Claude Code sessions, synthesizes social media posts and newsletters, and publishes through a multi-stage quality gate
+
+**[agentbook](https://github.com/TakaIshikawa/agentbook)** — AI-native book format with copyright protection and agent-friendly APIs. Complete publishing platform for the AI agent era
+
+**[graph](https://github.com/TakaIshikawa/graph)** — Personal knowledge graph system for connecting ideas, projects, and research across all work
+
+**[sota](https://github.com/TakaIshikawa/sota)** — Local CLI tool for curating breakthrough research papers from ArXiv with integration to personal knowledge graph
+
+**[supabooks](https://github.com/TakaIshikawa/supabooks)** — Parse and ingest Kindle highlights into personal knowledge graph
+
+### Idea Generation & Planning
+
+**[max](https://github.com/TakaIshikawa/max)** — Generalized idea generation engine. Transforms ecosystem signals (HN, Reddit, GitHub, NPM, PyPI, Product Hunt) into buildable project specs
+
+**[blueprint](https://github.com/TakaIshikawa/blueprint)** — Implementation planning layer that converts design briefs into execution-ready plans. Sits between idea systems and implementation engines
+
+**[catalog](https://github.com/TakaIshikawa/catalog)** — Project discovery and management tool. Centralized SQLite database of project metadata, tech stacks, tags, and interfaces
+
+### Resource Intelligence
+
+**[flux](https://github.com/TakaIshikawa/flux)** — Autonomous resource allocator using constrained optimization to maximize portfolio-wide value across projects
+
+**[forty-two](https://github.com/TakaIshikawa/forty-two)** — Agent-driven discovery platform where AI agents run executable experiments to expand civilizational utility, measured along Kardashev-scale dimensions
+
+### Domain Applications
+
+**[prepend](https://github.com/TakaIshikawa/prepend)** — Health intelligence platform that scores disease risk from labs, wearables, and behavioral data, then delivers personalized interventions through an AI coaching loop
+
+**[anywhere](https://github.com/TakaIshikawa/anywhere)** — Multi-agent system for cross-border corporate compliance and operations management
+
+**[me](https://github.com/TakaIshikawa/me)** — Personal portfolio website showcasing work, projects, and blog posts
+
+**[pico](https://github.com/TakaIshikawa/pico)** — Lightweight project scaffolding and rapid prototyping tool
+
+**[forge](https://github.com/TakaIshikawa/forge)** — Development environment automation and tooling
+
+**[registry](https://github.com/TakaIshikawa/registry)** — Service registry and discovery system for distributed agent networks
+
+**[meridian](https://github.com/TakaIshikawa/meridian)** — Project milestone tracking and progress monitoring
+
+**[arbitar](https://github.com/TakaIshikawa/arbitar)** — Automated arbitration system for agent conflicts and decision-making
+
+**[cultivate](https://github.com/TakaIshikawa/cultivate)** — Growth tracking and optimization for agent-driven projects
+
+**[ledger](https://github.com/TakaIshikawa/ledger)** — Transaction and activity logging system for agent operations
+
+**[simulate](https://github.com/TakaIshikawa/simulate)** — Agent behavior simulation and testing framework
+
+**[intake](https://github.com/TakaIshikawa/intake)** — Data ingestion pipeline for multi-source agent systems
+
+**[leaderboard](https://github.com/TakaIshikawa/leaderboard)** — Performance tracking and ranking system for agent competitions
+
+**[folio](https://github.com/TakaIshikawa/folio)** — Portfolio management and asset tracking
+
+**[proof](https://github.com/TakaIshikawa/proof)** — Verification and validation system for agent outputs
+
+**[increment](https://github.com/TakaIshikawa/increment)** — Incremental development and deployment system
+
+**[ignite](https://github.com/TakaIshikawa/ignite)** — Autonomous AI agent system for startup creation and management
+
+**[arise](https://github.com/TakaIshikawa/arise)** — Agent resilience and recovery system
+
+**[corporate](https://github.com/TakaIshikawa/corporate)** — Corporate structure and governance automation
+
+---
+
+## 📝 Writing
+
+I write about multi-agent systems, AI infrastructure challenges, and lessons from building dozens of AI-native products:
+
+- **Agent precision and intent interpretation** — How agents misunderstand goals and what to do about it
+- **Directional guidance vs. debugging** — When to guide vs. when to fix
+- **Context management in multi-agent systems** — Signal clarity at scale
+
+[Read on my blog](https://takaishikawa.com/blog) • [Subscribe to newsletter](https://takaishikawa.com/newsletter)
+
+---
+
+## 🎯 Background
+
+**Current:** Founder at Stealth Startup (2024–Present) — Building AI-native products with emphasis on automation and rapid iteration
+
+**Previously:**
+- Software Engineer at **Curai Health** (2018–2024) — Built cross-platform healthcare applications integrating ML into clinical workflows
+- Software Engineer at **Drivemode** (2017–2018) — Data infrastructure and analytics for mobile driving safety
+- Software Research Engineer at **Calit2 – UC Irvine** (2016–2017) — Autonomous robotics, real-time object detection and control systems
+
+**Education:** B.S. Computer Science, University of California, Irvine
+**Awards:** Dean's Choice Award (UCI 2017), Pod Technical Excellence Award (Hyperloop Competition 2016)
+
+---
+
+## 📫 Connect
+
+Building in public and always interested in connecting with people working on AI infrastructure, agent systems, and developer productivity.
+
+- Email: [Contact through website](https://takaishikawa.com)
+- X: [@TakaIshikawa](https://x.com/TakaIshikawa)
+- LinkedIn: [takahiroishikawa](https://www.linkedin.com/in/takahiroishikawa/)
+
+---
+
+*Last updated: April 2026*
