@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Taka
+
 [Website](https://takaishikawa.com) • [Blog](https://takaishikawa.com/blog) • [Newsletter](https://takaishikawa.com/newsletter) • [LinkedIn](https://www.linkedin.com/in/takahiroishikawa/)
 
 ---
