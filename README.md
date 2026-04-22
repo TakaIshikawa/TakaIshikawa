@@ -70,7 +70,7 @@ I write about multi-agent systems, AI infrastructure challenges, and lessons fro
 - **Directional guidance vs. debugging** — When to guide vs. when to fix
 - **Context management in multi-agent systems** — Signal clarity at scale
 
-[Read on my blog](https://takaishikawa.com/blog) • [Subscribe to newsletter](https://takaishikawa.com/newsletter)
+[Read on my blog](https://takaishikawa.com/blog) • [Subscribe to newsletter](https://takaishikawa.com/)
 
 
 ## 📫 Connect
