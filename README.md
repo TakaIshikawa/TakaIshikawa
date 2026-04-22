@@ -112,21 +112,6 @@ I write about multi-agent systems, AI infrastructure challenges, and lessons fro
 
 [Read on my blog](https://takaishikawa.com/blog) • [Subscribe to newsletter](https://takaishikawa.com/newsletter)
 
----
-
-## 🎯 Background
-
-**Current:** Founder at Stealth Startup (2024–Present) — Building AI-native products with emphasis on automation and rapid iteration
-
-**Previously:**
-- Software Engineer at **Curai Health** (2018–2024) — Built cross-platform healthcare applications integrating ML into clinical workflows
-- Software Engineer at **Drivemode** (2017–2018) — Data infrastructure and analytics for mobile driving safety
-- Software Research Engineer at **Calit2 – UC Irvine** (2016–2017) — Autonomous robotics, real-time object detection and control systems
-
-**Education:** B.S. Computer Science, University of California, Irvine
-**Awards:** Dean's Choice Award (UCI 2017), Pod Technical Excellence Award (Hyperloop Competition 2016)
-
----
 
 ## 📫 Connect
 
