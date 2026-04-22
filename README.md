@@ -12,83 +12,53 @@ Building in public. All experiments below are active explorations of AI-native p
 
 ### Agent Infrastructure & Orchestration
 
-**relay** — Autonomous agent orchestration system that delegates coding tasks to AI agents (Claude Code, Codex, Cursor Agent) running in parallel across git worktrees
-
-**mirror** — Automated self-improvement loop for AI agents. Observes performance, diagnoses issues using statistical analysis and LLM-as-judge, generates improvement hypotheses, validates via A/B experiments, and deploys confirmed changes
-
-**runner** — Adaptive monitoring system for background tasks and scheduled processes across projects with auto-discovery and health monitoring
-
-**smoothie** — Multi-session AI agent orchestrator. Web UI for managing concurrent Claude Code and Codex sessions with queue-based prioritization and real-time streaming
-
-**accord** — Agent-to-agent contract protocol. Agents discover capabilities, negotiate work contracts, execute deliverables, and settle obligations through a structured lifecycle
-
-**tact** — Orchestration system for AI coding agents. Manages parallel agent sessions: decomposing requirements into dependency-tracked tasks, dispatching within budget constraints, and handling merge conflicts
+- 🔀 **relay** — Parallel AI agent delegation across git worktrees
+- 🔄 **mirror** — Self-improvement loop with A/B testing and auto-deployment
+- 🏃 **runner** — Adaptive monitoring for background tasks and processes
+- 🎛️ **smoothie** — Multi-session orchestrator with queue-based prioritization
+- 🤝 **accord** — Agent-to-agent contract protocol and capability discovery
+- 🎯 **tact** — Task decomposition and merge conflict handling for coding agents
 
 ### Content & Knowledge Systems
 
-**presence** — Autonomous content pipeline that ingests GitHub commits and Claude Code sessions, synthesizes social media posts and newsletters, and publishes through a multi-stage quality gate
-
-**agentbook** — AI-native book format with copyright protection and agent-friendly APIs. Complete publishing platform for the AI agent era
-
-**graph** — Personal knowledge graph system for connecting ideas, projects, and research across all work
-
-**sota** — Local CLI tool for curating breakthrough research papers from ArXiv with integration to personal knowledge graph
-
-**supabooks** — Parse and ingest Kindle highlights into personal knowledge graph
+- 📢 **presence** — Autonomous content pipeline from commits to social posts
+- 📚 **agentbook** — AI-native book format with copyright protection
+- 🕸️ **graph** — Personal knowledge graph connecting ideas and research
+- 📄 **sota** — ArXiv research curation with knowledge graph integration
+- 📖 **supabooks** — Kindle highlights ingestion into knowledge graph
 
 ### Idea Generation & Planning
 
-**max** — Generalized idea generation engine. Transforms ecosystem signals (HN, Reddit, GitHub, NPM, PyPI, Product Hunt) into buildable project specs
-
-**blueprint** — Implementation planning layer that converts design briefs into execution-ready plans. Sits between idea systems and implementation engines
-
-**catalog** — Project discovery and management tool. Centralized SQLite database of project metadata, tech stacks, tags, and interfaces
+- 💡 **max** — Ecosystem signals to buildable project specs
+- 📐 **blueprint** — Design briefs to execution-ready plans
+- 🗂️ **catalog** — SQLite-based project metadata and discovery
 
 ### Resource Intelligence
 
-**flux** — Autonomous resource allocator using constrained optimization to maximize portfolio-wide value across projects
-
-**forty-two** — Agent-driven discovery platform where AI agents run executable experiments to expand civilizational utility, measured along Kardashev-scale dimensions
+- ⚡ **flux** — Portfolio-wide resource optimization via constrained solving
+- 🔬 **forty-two** — Experimental discovery platform along Kardashev dimensions
 
 ### Domain Applications
 
-**prepend** — Health intelligence platform that scores disease risk from labs, wearables, and behavioral data, then delivers personalized interventions through an AI coaching loop
-
-**anywhere** — Multi-agent system for cross-border corporate compliance and operations management
-
-**me** — Personal portfolio website showcasing work, projects, and blog posts
-
-**pico** — Lightweight project scaffolding and rapid prototyping tool
-
-**forge** — Development environment automation and tooling
-
-**registry** — Service registry and discovery system for distributed agent networks
-
-**meridian** — Project milestone tracking and progress monitoring
-
-**arbitar** — Automated arbitration system for agent conflicts and decision-making
-
-**cultivate** — Growth tracking and optimization for agent-driven projects
-
-**ledger** — Transaction and activity logging system for agent operations
-
-**simulate** — Agent behavior simulation and testing framework
-
-**intake** — Data ingestion pipeline for multi-source agent systems
-
-**leaderboard** — Performance tracking and ranking system for agent competitions
-
-**folio** — Portfolio management and asset tracking
-
-**proof** — Verification and validation system for agent outputs
-
-**increment** — Incremental development and deployment system
-
-**ignite** — Autonomous AI agent system for startup creation and management
-
-**arise** — Agent resilience and recovery system
-
-**corporate** — Corporate structure and governance automation
+- 🏥 **prepend** — Disease risk scoring with AI-driven interventions
+- 🌐 **anywhere** — Cross-border compliance and operations automation
+- 👤 **me** — Personal portfolio website
+- ⚙️ **pico** — Project scaffolding and rapid prototyping
+- 🔨 **forge** — Development environment automation
+- 📋 **registry** — Service discovery for distributed agents
+- 📊 **meridian** — Milestone tracking and progress monitoring
+- ⚖️ **arbitar** — Conflict arbitration and decision-making
+- 🌱 **cultivate** — Growth tracking and optimization
+- 📒 **ledger** — Transaction and activity logging
+- 🧪 **simulate** — Agent behavior simulation and testing
+- 📥 **intake** — Multi-source data ingestion pipeline
+- 🏆 **leaderboard** — Performance tracking and ranking
+- 💼 **folio** — Portfolio and asset management
+- ✅ **proof** — Output verification and validation
+- 📈 **increment** — Incremental development and deployment
+- 🚀 **ignite** — Autonomous startup creation system
+- 🛡️ **arise** — Agent resilience and recovery
+- 🏢 **corporate** — Corporate governance automation
 
 ---
 
