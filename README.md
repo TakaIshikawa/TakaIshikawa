@@ -1,7 +1,3 @@
-# Takahiro Ishikawa
-
-**Engineer** — Building AI agent evals and harness
-
 [Website](https://takaishikawa.com) • [Blog](https://takaishikawa.com/blog) • [Newsletter](https://takaishikawa.com/newsletter) • [LinkedIn](https://www.linkedin.com/in/takahiroishikawa/)
 
 ---
