@@ -1,3 +1,5 @@
+# Hi, I'm Taka 👋
+
 [Website](https://takaishikawa.com) • [Blog](https://takaishikawa.com/blog) • [Newsletter](https://takaishikawa.com/newsletter) • [LinkedIn](https://www.linkedin.com/in/takahiroishikawa/)
 
 ---
@@ -118,7 +120,5 @@ Building in public and always interested in connecting with people working on AI
 - LinkedIn: [takahiroishikawa](https://www.linkedin.com/in/takahiroishikawa/)
 
 ---
-
-# Hi, I'm Taka 👋
 
 *Last updated: April 2026*
