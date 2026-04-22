@@ -38,28 +38,6 @@ Building in public. All experiments below are active explorations of AI-native p
 - ⚡ **flux** — Constrained optimization for portfolio-wide resource allocation
 - 🔬 **forty-two** — AI agents run experiments to expand civilizational utility along Kardashev dimensions
 
-### Domain Applications
-
-- 🏥 **prepend** — Disease risk scoring from labs/wearables/behavior with AI-coached interventions
-- 🌐 **anywhere** — Multi-agent system for cross-border compliance and operations
-- 👤 **me** — Personal portfolio showcasing work and projects
-- ⚙️ **pico** — Lightweight project scaffolding and rapid prototyping
-- 🔨 **forge** — Development environment automation and tooling
-- 📋 **registry** — Service registry and discovery for distributed agent networks
-- 📊 **meridian** — Project milestone and progress tracking
-- ⚖️ **arbitar** — Automated arbitration for agent conflicts and decisions
-- 🌱 **cultivate** — Growth tracking and optimization for agent projects
-- 📒 **ledger** — Transaction and activity logging for agent operations
-- 🧪 **simulate** — Agent behavior simulation and testing framework
-- 📥 **intake** — Multi-source data ingestion for agent systems
-- 🏆 **leaderboard** — Performance tracking and ranking for agent competitions
-- 💼 **folio** — Portfolio management and asset tracking
-- ✅ **proof** — Verification and validation for agent outputs
-- 📈 **increment** — Incremental development and deployment system
-- 🚀 **ignite** — Autonomous agent system for startup creation and management
-- 🛡️ **arise** — Agent resilience and recovery system
-- 🏢 **corporate** — Corporate structure and governance automation
-
 ---
 
 ## 📝 Writing
