@@ -1,8 +1,6 @@
 # Takahiro Ishikawa
 
-**AI-Native Product Builder** • Founder at Stealth Startup • Shipping multi-agent systems and developer productivity tools
-
-I build AI-native products at volume. My focus is multi-agent infrastructure, autonomous systems, and tools that reshape how developers work. Every project is an experiment in what becomes possible when AI is a first-class citizen in the development process.
+**Engineer** — Building AI agent evals and harness
 
 [Website](https://takaishikawa.com) • [Blog](https://takaishikawa.com/blog) • [Newsletter](https://takaishikawa.com/newsletter) • [LinkedIn](https://www.linkedin.com/in/takahiroishikawa/)
 
