@@ -119,6 +119,6 @@ Building in public and always interested in connecting with people working on AI
 
 ---
 
-# 👋 Hi, I'm Taka
+# Hi, I'm Taka 👋
 
 *Last updated: April 2026*
