@@ -34,83 +34,83 @@ Building in public. All experiments below are active explorations of AI-native p
 
 ### Agent Infrastructure & Orchestration
 
-**[relay](https://github.com/TakaIshikawa/relay)** — Autonomous agent orchestration system that delegates coding tasks to AI agents (Claude Code, Codex, Cursor Agent) running in parallel across git worktrees
+**relay** — Autonomous agent orchestration system that delegates coding tasks to AI agents (Claude Code, Codex, Cursor Agent) running in parallel across git worktrees
 
-**[mirror](https://github.com/TakaIshikawa/mirror)** — Automated self-improvement loop for AI agents. Observes performance, diagnoses issues using statistical analysis and LLM-as-judge, generates improvement hypotheses, validates via A/B experiments, and deploys confirmed changes
+**mirror** — Automated self-improvement loop for AI agents. Observes performance, diagnoses issues using statistical analysis and LLM-as-judge, generates improvement hypotheses, validates via A/B experiments, and deploys confirmed changes
 
-**[runner](https://github.com/TakaIshikawa/runner)** — Adaptive monitoring system for background tasks and scheduled processes across projects with auto-discovery and health monitoring
+**runner** — Adaptive monitoring system for background tasks and scheduled processes across projects with auto-discovery and health monitoring
 
-**[smoothie](https://github.com/TakaIshikawa/smoothie)** — Multi-session AI agent orchestrator. Web UI for managing concurrent Claude Code and Codex sessions with queue-based prioritization and real-time streaming
+**smoothie** — Multi-session AI agent orchestrator. Web UI for managing concurrent Claude Code and Codex sessions with queue-based prioritization and real-time streaming
 
-**[accord](https://github.com/TakaIshikawa/accord)** — Agent-to-agent contract protocol. Agents discover capabilities, negotiate work contracts, execute deliverables, and settle obligations through a structured lifecycle
+**accord** — Agent-to-agent contract protocol. Agents discover capabilities, negotiate work contracts, execute deliverables, and settle obligations through a structured lifecycle
 
-**[tact](https://github.com/TakaIshikawa/tact)** — Orchestration system for AI coding agents. Manages parallel agent sessions: decomposing requirements into dependency-tracked tasks, dispatching within budget constraints, and handling merge conflicts
+**tact** — Orchestration system for AI coding agents. Manages parallel agent sessions: decomposing requirements into dependency-tracked tasks, dispatching within budget constraints, and handling merge conflicts
 
 ### Content & Knowledge Systems
 
-**[presence](https://github.com/TakaIshikawa/presence)** — Autonomous content pipeline that ingests GitHub commits and Claude Code sessions, synthesizes social media posts and newsletters, and publishes through a multi-stage quality gate
+**presence** — Autonomous content pipeline that ingests GitHub commits and Claude Code sessions, synthesizes social media posts and newsletters, and publishes through a multi-stage quality gate
 
-**[agentbook](https://github.com/TakaIshikawa/agentbook)** — AI-native book format with copyright protection and agent-friendly APIs. Complete publishing platform for the AI agent era
+**agentbook** — AI-native book format with copyright protection and agent-friendly APIs. Complete publishing platform for the AI agent era
 
-**[graph](https://github.com/TakaIshikawa/graph)** — Personal knowledge graph system for connecting ideas, projects, and research across all work
+**graph** — Personal knowledge graph system for connecting ideas, projects, and research across all work
 
-**[sota](https://github.com/TakaIshikawa/sota)** — Local CLI tool for curating breakthrough research papers from ArXiv with integration to personal knowledge graph
+**sota** — Local CLI tool for curating breakthrough research papers from ArXiv with integration to personal knowledge graph
 
-**[supabooks](https://github.com/TakaIshikawa/supabooks)** — Parse and ingest Kindle highlights into personal knowledge graph
+**supabooks** — Parse and ingest Kindle highlights into personal knowledge graph
 
 ### Idea Generation & Planning
 
-**[max](https://github.com/TakaIshikawa/max)** — Generalized idea generation engine. Transforms ecosystem signals (HN, Reddit, GitHub, NPM, PyPI, Product Hunt) into buildable project specs
+**max** — Generalized idea generation engine. Transforms ecosystem signals (HN, Reddit, GitHub, NPM, PyPI, Product Hunt) into buildable project specs
 
-**[blueprint](https://github.com/TakaIshikawa/blueprint)** — Implementation planning layer that converts design briefs into execution-ready plans. Sits between idea systems and implementation engines
+**blueprint** — Implementation planning layer that converts design briefs into execution-ready plans. Sits between idea systems and implementation engines
 
-**[catalog](https://github.com/TakaIshikawa/catalog)** — Project discovery and management tool. Centralized SQLite database of project metadata, tech stacks, tags, and interfaces
+**catalog** — Project discovery and management tool. Centralized SQLite database of project metadata, tech stacks, tags, and interfaces
 
 ### Resource Intelligence
 
-**[flux](https://github.com/TakaIshikawa/flux)** — Autonomous resource allocator using constrained optimization to maximize portfolio-wide value across projects
+**flux** — Autonomous resource allocator using constrained optimization to maximize portfolio-wide value across projects
 
-**[forty-two](https://github.com/TakaIshikawa/forty-two)** — Agent-driven discovery platform where AI agents run executable experiments to expand civilizational utility, measured along Kardashev-scale dimensions
+**forty-two** — Agent-driven discovery platform where AI agents run executable experiments to expand civilizational utility, measured along Kardashev-scale dimensions
 
 ### Domain Applications
 
-**[prepend](https://github.com/TakaIshikawa/prepend)** — Health intelligence platform that scores disease risk from labs, wearables, and behavioral data, then delivers personalized interventions through an AI coaching loop
+**prepend** — Health intelligence platform that scores disease risk from labs, wearables, and behavioral data, then delivers personalized interventions through an AI coaching loop
 
-**[anywhere](https://github.com/TakaIshikawa/anywhere)** — Multi-agent system for cross-border corporate compliance and operations management
+**anywhere** — Multi-agent system for cross-border corporate compliance and operations management
 
-**[me](https://github.com/TakaIshikawa/me)** — Personal portfolio website showcasing work, projects, and blog posts
+**me** — Personal portfolio website showcasing work, projects, and blog posts
 
-**[pico](https://github.com/TakaIshikawa/pico)** — Lightweight project scaffolding and rapid prototyping tool
+**pico** — Lightweight project scaffolding and rapid prototyping tool
 
-**[forge](https://github.com/TakaIshikawa/forge)** — Development environment automation and tooling
+**forge** — Development environment automation and tooling
 
-**[registry](https://github.com/TakaIshikawa/registry)** — Service registry and discovery system for distributed agent networks
+**registry** — Service registry and discovery system for distributed agent networks
 
-**[meridian](https://github.com/TakaIshikawa/meridian)** — Project milestone tracking and progress monitoring
+**meridian** — Project milestone tracking and progress monitoring
 
-**[arbitar](https://github.com/TakaIshikawa/arbitar)** — Automated arbitration system for agent conflicts and decision-making
+**arbitar** — Automated arbitration system for agent conflicts and decision-making
 
-**[cultivate](https://github.com/TakaIshikawa/cultivate)** — Growth tracking and optimization for agent-driven projects
+**cultivate** — Growth tracking and optimization for agent-driven projects
 
-**[ledger](https://github.com/TakaIshikawa/ledger)** — Transaction and activity logging system for agent operations
+**ledger** — Transaction and activity logging system for agent operations
 
-**[simulate](https://github.com/TakaIshikawa/simulate)** — Agent behavior simulation and testing framework
+**simulate** — Agent behavior simulation and testing framework
 
-**[intake](https://github.com/TakaIshikawa/intake)** — Data ingestion pipeline for multi-source agent systems
+**intake** — Data ingestion pipeline for multi-source agent systems
 
-**[leaderboard](https://github.com/TakaIshikawa/leaderboard)** — Performance tracking and ranking system for agent competitions
+**leaderboard** — Performance tracking and ranking system for agent competitions
 
-**[folio](https://github.com/TakaIshikawa/folio)** — Portfolio management and asset tracking
+**folio** — Portfolio management and asset tracking
 
-**[proof](https://github.com/TakaIshikawa/proof)** — Verification and validation system for agent outputs
+**proof** — Verification and validation system for agent outputs
 
-**[increment](https://github.com/TakaIshikawa/increment)** — Incremental development and deployment system
+**increment** — Incremental development and deployment system
 
-**[ignite](https://github.com/TakaIshikawa/ignite)** — Autonomous AI agent system for startup creation and management
+**ignite** — Autonomous AI agent system for startup creation and management
 
-**[arise](https://github.com/TakaIshikawa/arise)** — Agent resilience and recovery system
+**arise** — Agent resilience and recovery system
 
-**[corporate](https://github.com/TakaIshikawa/corporate)** — Corporate structure and governance automation
+**corporate** — Corporate structure and governance automation
 
 ---
 
