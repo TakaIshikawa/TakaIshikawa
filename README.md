@@ -2,7 +2,7 @@
 
 I love building useful things. Currently, focusing on building multi-agent tools, harness, and evals.
 
-[Website](https://takaishikawa.com) • [Blog](https://takaishikawa.com/blog) • [Newsletter](https://takaishikawa.com/newsletter) • [LinkedIn](https://www.linkedin.com/in/takahiroishikawa/)
+[Website](https://takaishikawa.com) • [Blog](https://takaishikawa.com/blog) • [LinkedIn](https://www.linkedin.com/in/takahiroishikawa/)
 
 ---
 
