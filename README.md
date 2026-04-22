@@ -1,16 +1,8 @@
 # Hi, there! I'm Taka 👋
 
+I love building useful things. Currently, focusing on building multi-agent tools, harness, and evals.
+
 [Website](https://takaishikawa.com) • [Blog](https://takaishikawa.com/blog) • [Newsletter](https://takaishikawa.com/newsletter) • [LinkedIn](https://www.linkedin.com/in/takahiroishikawa/)
-
----
-
-## 🚀 Current Focus
-
-Building autonomous infrastructure for AI agents:
-- **Multi-agent orchestration** at scale
-- **Self-improving agent systems** that learn from their own performance
-- **AI-native developer tools** that eliminate repetitive work
-- **Agent evaluation frameworks** for measuring real-world impact
 
 ---
 
