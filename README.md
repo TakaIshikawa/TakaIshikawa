@@ -16,16 +16,6 @@ Building autonomous infrastructure for AI agents:
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages:** Python, TypeScript, JavaScript, Swift
-**AI/ML:** Claude API, Anthropic SDK, LangChain, OpenAI, Agent SDKs
-**Backend:** FastAPI, Node.js, Next.js 15, React 19
-**Infrastructure:** Docker, PostgreSQL, Redis, SQLite
-**Tools:** Git, Claude Code, Cursor, Model Context Protocol (MCP)
-
----
-
 ## 📦 Projects
 
 Building in public. All experiments below are active explorations of AI-native product development.
