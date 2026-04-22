@@ -12,53 +12,53 @@ Building in public. All experiments below are active explorations of AI-native p
 
 ### Agent Infrastructure & Orchestration
 
-- 🔀 **relay** — Parallel AI agent delegation across git worktrees
-- 🔄 **mirror** — Self-improvement loop with A/B testing and auto-deployment
-- 🏃 **runner** — Adaptive monitoring for background tasks and processes
-- 🎛️ **smoothie** — Multi-session orchestrator with queue-based prioritization
-- 🤝 **accord** — Agent-to-agent contract protocol and capability discovery
-- 🎯 **tact** — Task decomposition and merge conflict handling for coding agents
+- 🔀 **relay** — Delegates coding tasks to AI agents running in parallel across git worktrees
+- 🔄 **mirror** — Self-improvement loop using statistical analysis and LLM-as-judge, validated via A/B experiments
+- 🏃 **runner** — Adaptive monitoring for background tasks with auto-discovery and health checks
+- 🎛️ **smoothie** — Web UI for managing concurrent AI agent sessions with queue prioritization and real-time streaming
+- 🤝 **accord** — Agent-to-agent contracts: capability discovery, negotiation, execution, and settlement
+- 🎯 **tact** — Manages parallel coding agents with dependency-tracked tasks, budget constraints, and merge conflict handling
 
 ### Content & Knowledge Systems
 
-- 📢 **presence** — Autonomous content pipeline from commits to social posts
-- 📚 **agentbook** — AI-native book format with copyright protection
-- 🕸️ **graph** — Personal knowledge graph connecting ideas and research
-- 📄 **sota** — ArXiv research curation with knowledge graph integration
-- 📖 **supabooks** — Kindle highlights ingestion into knowledge graph
+- 📢 **presence** — Autonomous pipeline from GitHub commits to social posts and newsletters via multi-stage quality gates
+- 📚 **agentbook** — AI-native book format and publishing platform with copyright protection and agent APIs
+- 🕸️ **graph** — Personal knowledge graph connecting ideas, projects, and research
+- 📄 **sota** — CLI for curating breakthrough ArXiv papers into personal knowledge graph
+- 📖 **supabooks** — Parses Kindle highlights into personal knowledge graph
 
 ### Idea Generation & Planning
 
-- 💡 **max** — Ecosystem signals to buildable project specs
-- 📐 **blueprint** — Design briefs to execution-ready plans
-- 🗂️ **catalog** — SQLite-based project metadata and discovery
+- 💡 **max** — Transforms ecosystem signals (HN, Reddit, GitHub, etc.) into buildable project specs
+- 📐 **blueprint** — Converts design briefs into execution-ready plans between idea and implementation
+- 🗂️ **catalog** — SQLite database for project discovery with metadata, tech stacks, and tags
 
 ### Resource Intelligence
 
-- ⚡ **flux** — Portfolio-wide resource optimization via constrained solving
-- 🔬 **forty-two** — Experimental discovery platform along Kardashev dimensions
+- ⚡ **flux** — Constrained optimization for portfolio-wide resource allocation
+- 🔬 **forty-two** — AI agents run experiments to expand civilizational utility along Kardashev dimensions
 
 ### Domain Applications
 
-- 🏥 **prepend** — Disease risk scoring with AI-driven interventions
-- 🌐 **anywhere** — Cross-border compliance and operations automation
-- 👤 **me** — Personal portfolio website
-- ⚙️ **pico** — Project scaffolding and rapid prototyping
-- 🔨 **forge** — Development environment automation
-- 📋 **registry** — Service discovery for distributed agents
-- 📊 **meridian** — Milestone tracking and progress monitoring
-- ⚖️ **arbitar** — Conflict arbitration and decision-making
-- 🌱 **cultivate** — Growth tracking and optimization
-- 📒 **ledger** — Transaction and activity logging
-- 🧪 **simulate** — Agent behavior simulation and testing
-- 📥 **intake** — Multi-source data ingestion pipeline
-- 🏆 **leaderboard** — Performance tracking and ranking
-- 💼 **folio** — Portfolio and asset management
-- ✅ **proof** — Output verification and validation
-- 📈 **increment** — Incremental development and deployment
-- 🚀 **ignite** — Autonomous startup creation system
-- 🛡️ **arise** — Agent resilience and recovery
-- 🏢 **corporate** — Corporate governance automation
+- 🏥 **prepend** — Disease risk scoring from labs/wearables/behavior with AI-coached interventions
+- 🌐 **anywhere** — Multi-agent system for cross-border compliance and operations
+- 👤 **me** — Personal portfolio showcasing work and projects
+- ⚙️ **pico** — Lightweight project scaffolding and rapid prototyping
+- 🔨 **forge** — Development environment automation and tooling
+- 📋 **registry** — Service registry and discovery for distributed agent networks
+- 📊 **meridian** — Project milestone and progress tracking
+- ⚖️ **arbitar** — Automated arbitration for agent conflicts and decisions
+- 🌱 **cultivate** — Growth tracking and optimization for agent projects
+- 📒 **ledger** — Transaction and activity logging for agent operations
+- 🧪 **simulate** — Agent behavior simulation and testing framework
+- 📥 **intake** — Multi-source data ingestion for agent systems
+- 🏆 **leaderboard** — Performance tracking and ranking for agent competitions
+- 💼 **folio** — Portfolio management and asset tracking
+- ✅ **proof** — Verification and validation for agent outputs
+- 📈 **increment** — Incremental development and deployment system
+- 🚀 **ignite** — Autonomous agent system for startup creation and management
+- 🛡️ **arise** — Agent resilience and recovery system
+- 🏢 **corporate** — Corporate structure and governance automation
 
 ---
 
