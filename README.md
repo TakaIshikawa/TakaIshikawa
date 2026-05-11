@@ -8,35 +8,37 @@ I love building useful things. Currently, focusing on building multi-agent tools
 
 ## 📦 Projects
 
-Building in public. All experiments below are active explorations of AI-native product development.
+Building in public. This list mirrors my active experiment repos.
 
 ### Agent Infrastructure & Orchestration
 
 - 🔀 **relay** — Delegates coding tasks to AI agents running in parallel across git worktrees
-- 🔄 **mirror** — Self-improvement loop using statistical analysis and LLM-as-judge, validated via A/B experiments
 - 🏃 **runner** — Adaptive monitoring for background tasks with auto-discovery and health checks
 - 🎛️ **smoothie** — Web UI for managing concurrent AI agent sessions with queue prioritization and real-time streaming
-- 🤝 **accord** — Agent-to-agent contracts: capability discovery, negotiation, execution, and settlement
-- 🎯 **tact** — Manages parallel coding agents with dependency-tracked tasks, budget constraints, and merge conflict handling
+- 🧰 **kit** — Protocol-agnostic middleware for optimizing AI agent token efficiency
+- ✅ **clearance** — Release gate for publishing private codebases as public open source projects
 
 ### Content & Knowledge Systems
 
 - 📢 **presence** — Autonomous pipeline from GitHub commits to social posts and newsletters via multi-stage quality gates
-- 📚 **agentbook** — AI-native book format and publishing platform with copyright protection and agent APIs
 - 🕸️ **graph** — Personal knowledge graph connecting ideas, projects, and research
 - 📄 **sota** — CLI for curating breakthrough ArXiv papers into personal knowledge graph
 - 📖 **supabooks** — Parses Kindle highlights into personal knowledge graph
+- 🗞️ **curate** — Daily curation pipeline for tech startup intelligence
 
 ### Idea Generation & Planning
 
 - 💡 **max** — Transforms ecosystem signals (HN, Reddit, GitHub, etc.) into buildable project specs
 - 📐 **blueprint** — Converts design briefs into execution-ready plans between idea and implementation
 - 🗂️ **catalog** — SQLite database for project discovery with metadata, tech stacks, and tags
+- 🎯 **doing** — Model-based RL personal optimization engine for dynamic action selection
 
-### Resource Intelligence
+### Personal Apps & Products
 
-- ⚡ **flux** — Constrained optimization for portfolio-wide resource allocation
-- 🔬 **forty-two** — AI agents run experiments to expand civilizational utility along Kardashev dimensions
+- 🧬 **prepend** — Health intelligence platform for disease-risk scoring and AI coaching
+- 📱 **prepend-lite** — Mobile-first health tracker with wearable insights and daily recommendations
+- 🔐 **findoc** — Local encrypted financial snapshot service with HTTP and MCP access
+- 🌐 **me** — Personal portfolio website for projects, writing, and public work
 
 ---
 
@@ -61,4 +63,4 @@ Building in public and always interested in connecting with people working on AI
 
 ---
 
-*Last updated: April 2026*
+*Last updated: May 2026*
