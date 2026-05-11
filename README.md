@@ -56,7 +56,7 @@ I write about multi-agent systems, AI infrastructure challenges, and lessons fro
 Building in public and always interested in connecting with people working on AI infrastructure, agent systems, and developer productivity.
 
 - Email: [Contact through website](https://takaishikawa.com)
-- X: [@TakaIshikawa](https://x.com/TakaIshikawa)
+- X: [@taka52ishikawa](https://x.com/taka52ishikawa)
 - LinkedIn: [takahiroishikawa](https://www.linkedin.com/in/takahiroishikawa/)
 
 ---
